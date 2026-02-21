@@ -1,0 +1,16 @@
+# 環境変数・シークレット
+.env
+
+# 個人資産データ・履歴
+portfolio_data.json
+valuation_history.csv
+valuation_cron.log
+
+# 一時生成画像
+portfolio_summary.png
+
+# Pythonキャッシュ・Jupyter設定
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+.local/
